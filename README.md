@@ -10,7 +10,7 @@ and some relational database management systems like SQL Server, MySQL, and Post
 
 ## 💬 Ask me about ...
 
-- Anything related to backend development, web frameworks, databases, testing, and deployment.
+- Anything related to backend development, web frameworks, databases, and testing.
 - My favorite projects and challenges that I have faced as a developer.
 
 ## 📫 How to reach me ...
@@ -25,5 +25,5 @@ and some relational database management systems like SQL Server, MySQL, and Post
 
 ## ⚡ Fun fact ...
 
-- I love playing basketball and chess in my free time.
+- I love playing 🏀basketball and ♟️chess in my free time.
 - 🔭 If I'm not surfing the internet, I'm probably camping in the mountains for a night of stargazing.
