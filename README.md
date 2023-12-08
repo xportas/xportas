@@ -16,14 +16,11 @@ and some relational database management systems like SQL Server, MySQL, and Post
 ## 📫 How to reach me ...
 
 <div align="left">
-<details>
+<details style="display:none;">
 <summary><img src="/email.png" alt="email" width="30" height="30"/></summary>
 <p>   xabierportasglz@gmail.com   </p>
 </details>
-<details>
-  <summary><a href="https://www.linkedin.com/in/xabierportas/" target="_blank"> <img src="/linkedin.png" alt="linkedin" width="30" height="30"/> </a></summary>
-<p>   [xabier](https://www.linkedin.com/in/xabierportas/)   </p>
-</details>
+<a href="https://www.linkedin.com/in/xabierportas/" target="_blank"> <img src="/linkedin.png" alt="linkedin" width="30" height="30"/> </a>
 </div>
 
 ## ⚡ Fun fact ...
