@@ -17,10 +17,10 @@ and some relational database management systems like SQL Server, MySQL, and Post
 
 <p align="left">
 <details>
-<summary><img src="/email.png" alt="email" width="50" height="50"/></summary>
+<summary><img src="/email.png" alt="email" width="30" height="30"/></summary>
 <p>   xabierportasglz@gmail.com   </p>
 </details>
-<a href="https://www.linkedin.com/in/xabierportas/" target="_blank"> <img src="/linkedin.png" alt="linkedin" width="65" height="65"/> </a>
+<a href="https://www.linkedin.com/in/xabierportas/" target="_blank"> <img src="/linkedin.png" alt="linkedin" width="30" height="30"/> </a>
 </p>
 
 ## ⚡ Fun fact ...
