@@ -15,8 +15,10 @@ and some relational database management systems like SQL Server, MySQL, and Post
 
 ## 📫 How to reach me ...
 
-- Email: xabierportasglz@gmail.com
-- LinkedIn: https://www.linkedin.com/in/xabierportas/
+<p align="left"> 
+<a href="xabierportasglz@gmail.com" target="_blank"> <img src="/email.png" alt="xabierportasglz@gmail.com" width="65" height="65"/> </a>
+<a href="https://www.linkedin.com/in/xabierportas/" target="_blank"> <img src="/linkedin.png" alt="linkedin" width="65" height="65"/> </a>
+  </p>
 
 ## ⚡ Fun fact ...
 
