@@ -15,10 +15,13 @@ and some relational database management systems like SQL Server, MySQL, and Post
 
 ## 📫 How to reach me ...
 
-<p align="left"> 
-<a href="xabierportasglz@gmail.com" target="_blank"> <img src="/email.png" alt="xabierportasglz@gmail.com" width="65" height="65"/> </a>
+<p align="left">
+<details>
+<summary> <img src="/email.png" alt="email" width="50" height="50"/> </summary>
+<p> xabierportasglz@gmail.com </p>
+</details>
 <a href="https://www.linkedin.com/in/xabierportas/" target="_blank"> <img src="/linkedin.png" alt="linkedin" width="65" height="65"/> </a>
-  </p>
+</p>
 
 ## ⚡ Fun fact ...
 
