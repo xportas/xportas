@@ -16,9 +16,8 @@ and some relational database management systems like SQL Server, MySQL, and Post
 ## 📫 How to reach me ...
 
 <div align="left">
-<img src="/email.png" alt="email" width="30" height="30"/>
-<a href="mailto:xabierportasglz@gmail.com" target="blank"><img src="/email.png" alt="email" width="30" height="30"/></a>
-<a href="https://www.linkedin.com/in/xabierportas/" target="_blank"> <img src="/linkedin.png" alt="linkedin" width="30" height="30"/> </a>
+<a href="mailto:xabierportasglz@gmail.com" target="blank"><img src="/email.png" alt="email" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/xabierportas/" target="_blank"> <img src="/linkedin.png" alt="linkedin" width="40" height="40"/> </a>
 </div>
 
 ## ⚡ Fun fact ...
