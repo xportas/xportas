@@ -17,8 +17,8 @@ and some relational database management systems like SQL Server, MySQL, and Post
 
 <p align="left">
 <details>
-<summary> info</summary>
-<p> xabierportasglz@gmail.com </p>
+<summary><img src="/email.png" alt="email" width="50" height="50"/></summary>
+<p>   xabierportasglz@gmail.com   </p>
 </details>
 <a href="https://www.linkedin.com/in/xabierportas/" target="_blank"> <img src="/linkedin.png" alt="linkedin" width="65" height="65"/> </a>
 </p>
