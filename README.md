@@ -6,12 +6,11 @@ and some relational database management systems like SQL Server, MySQL, and Post
 
 ## 🌱 I’m currently learning ...
 
-- How to use Symfony to create more efficient and flexible applications.
+- In proces... TODO
 
 ## 💬 Ask me about ...
 
-- Anything related to backend development, web frameworks, databases, and testing.
-- My favorite projects and challenges that I have faced as a developer.
+- In process... TODO
 
 ## 📫 How to reach me ...
 
