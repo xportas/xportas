@@ -30,8 +30,8 @@ Git | GitHub | Bitbucket
 ## 📫 How to reach me
 
 <div align="left">
-<a href="mailto:xabierportasglz@gmail.com" target="blank"><img src="/email.png" alt="email" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/xabierportas/" target="_blank"> <img src="/linkedin.png" alt="linkedin" width="40" height="40"/> </a>
+<a href="mailto:xabierportasglz@gmail.com" target="blank"><img src="./assets/email.png" alt="email" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/xabierportas/" target="_blank"> <img src="./assets/linkedin.png" alt="linkedin" width="40" height="40"/> </a>
 </div>
 
 ## ⚡ Fun fact
