@@ -20,7 +20,6 @@ and some relational database management systems like SQL Server, MySQL, and Post
 <img src="./assets/bootstrap.svg" style="height: 60px;">
 <img src="./assets/symfony.png" style="height: 60px;">
 
-
 ### <img src="./assets/codigo.png" style="height: 20px;"> Web Development:
 
 
