@@ -7,7 +7,7 @@ and some relational database management systems like SQL Server, MySQL, and Post
 ## 🛠️ Skills and Tools
 
 ### 💻 Programming Languages: 
-<img src="./assets/typescript.png" style="max-height: 60px;">
+<img src="./assets/typescript.png" style="max-width: 60px;">
 <img src="./assets/csharp.png" style="max-height: 60px;">
 <img src="./assets/java.png" style="max-height: 60px;">
 <img src="./assets/python.png" style="max-height: 60px;">
