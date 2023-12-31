@@ -7,7 +7,13 @@ and some relational database management systems like SQL Server, MySQL, and Post
 ## 🛠️ Skills and Tools
 
 ### 💻 Programming Languages: 
-Visual Basic (.NET) | Python | Java | C#
+<img src="" style="max-height: 60px;">
+<img src="" style="max-height: 60px;">
+<img src="" style="max-height: 60px;">
+<img src="" style="max-height: 60px;">
+<img src="" style="max-height: 60px;">
+<img src="" style="max-height: 60px;">
+<img src="" style="max-height: 60px;">
 
 ### Frameworks:
 
