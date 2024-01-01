@@ -6,6 +6,33 @@ and some relational database management systems like SQL Server, MySQL, and Post
 
 ## 🛠️ Skills and Tools
 
+| Languages | Frameworks |
+|-----------|------------|
+| ![TypeScript](./assets/typescript.svg) | ![.NET](./assets/Microsoft_.NET_logo.png) |
+| ![C#](./assets/csharp.svg) | ![Angular](./assets/Angular.svg) |
+| ![Java](./assets/java.svg) | ![Symfony](./assets/symfony.svg) |
+| ![Python](./assets/python.svg) | |
+| ![JavaScript](./assets/js.svg) | |
+| ![PHP](./assets/php.svg) | |
+
+| Web Development | Operating Systems |
+|-----------------|-------------------|
+| ![HTML](./assets/html.svg) | ![Android](./assets/android.png) |
+| ![CSS](./assets/css.svg) | ![Linux](./assets/linux.svg) |
+| ![JavaScript](./assets/js.svg) | ![Windows](./assets/windows.svg) |
+| ![Bootstrap](./assets/bootstrap.svg) | |
+
+| Database | Version Control |
+|----------|-----------------|
+| ![SQL Server](./assets/microsoft-sql-server-logo.svg) | ![Git](./assets/git.svg) |
+| ![MySQL](./assets/mysql.svg) | ![GitHub](./assets/github.svg) |
+
+| Others |
+|--------|
+| ![Docker](./assets/Docker.png) |
+| ![Odoo](./assets/odoo.png) |
+
+
 ### 💻 Programming Languages: 
 <div style="display: flex;">
 <img src="./assets/typescript.svg" style="height: 45px;">
