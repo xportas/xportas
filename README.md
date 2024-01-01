@@ -16,7 +16,7 @@ and some relational database management systems like SQL Server, MySQL, and Post
 <img src="./assets/php.svg" style="height: 45px;">
 </div>
 
-###  Frameworks:
+### <img src="./assets/rocket.svg" style="height: 20px;"> Frameworks:
 <div style="display: flex;">
 <img src="./assets/Microsoft_.NET_logo.png" style="height: 45px;">
 <img src="./assets/Angular.svg" style="height: 45px;">
@@ -26,6 +26,11 @@ and some relational database management systems like SQL Server, MySQL, and Post
 
 ### <img src="./assets/codigo.png" style="height: 20px;">  Web Development:
 <div style="display: flex;">
+<img src="./assets/js.svg" style="height: 45px;">
+<img src="./assets/html.svg" style="height: 45px;">
+<img src="./assets/css.svg" style="height: 45px;">
+<img src="./assets/jquery.svg" style="height: 45px;">
+<img src="./assets/sass.svg" style="height: 45px;">
 </div>
 
 ### <img src="./assets/bash.svg" style="height: 20px;"> Operating systems: 
