@@ -8,12 +8,12 @@ and some relational database management systems like SQL Server, MySQL, and Post
 
 ### 💻 Programming Languages: 
 <div style="display: flex;">
-<img src="./assets/typescript.png" style="height: 45px;">
+<img src="./assets/typescript.svg" style="height: 45px;">
 <img src="./assets/csharp.svg" style="height: 45px;">
-<img src="./assets/java.png" style="height: 45px;">
-<img src="./assets/python.png" style="height: 45px;">
-<img src="./assets/js.png" style="height: 45px;">
-<img src="./assets/php.png" style="height: 45px;">
+<img src="./assets/java.svg" style="height: 45px;">
+<img src="./assets/python.svg" style="height: 45px;">
+<img src="./assets/js.svg" style="height: 45px;">
+<img src="./assets/php.svg" style="height: 45px;">
 </div>
 
 ###  Frameworks:
@@ -21,7 +21,7 @@ and some relational database management systems like SQL Server, MySQL, and Post
 <img src="./assets/Microsoft_.NET_logo.png" style="height: 45px;">
 <img src="./assets/Angular.svg" style="height: 45px;">
 <img src="./assets/bootstrap.svg" style="height: 45px;">
-<img src="./assets/symfony.png" style="height: 45px;">
+<img src="./assets/symfony.svg" style="height: 45px;">
 </div>
 
 ### <img src="./assets/codigo.png" style="height: 20px;">  Web Development:
@@ -39,7 +39,6 @@ and some relational database management systems like SQL Server, MySQL, and Post
 <div style="display: flex;">
 <img src="./assets/microsoft-sql-server-logo.svg" style="height: 45px;">
 <img src="./assets/mysql.svg" style="height: 45px;">
-<img src="./assets/" style="height: 45px;">
 </div>
 
 ### <img src="./assets/git-branch.svg" style="height: 20px;"> Version Control: 
