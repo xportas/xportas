@@ -6,31 +6,56 @@ and some relational database management systems like SQL Server, MySQL, and Post
 
 ## 🛠️ Skills and Tools
 
-| Languages | Frameworks |
-|-----------|------------|
-| ![TypeScript](./assets/typescript.svg) | ![.NET](./assets/Microsoft_.NET_logo.png) |
-| ![C#](./assets/csharp.svg) | ![Angular](./assets/Angular.svg) |
-| ![Java](./assets/java.svg) | ![Symfony](./assets/symfony.svg) |
-| ![Python](./assets/python.svg) | |
-| ![JavaScript](./assets/js.svg) | |
-| ![PHP](./assets/php.svg) | |
+<table>
+  <tr>
+    <td><img src="./assets/typescript.svg" style="height: 45px;"></td>
+    <td><img src="./assets/Microsoft_.NET_logo.png" style="height: 45px;"></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/csharp.svg" style="height: 45px;"></td>
+    <td><img src="./assets/Angular.svg" style="height: 45px;"></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/java.svg" style="height: 45px;"></td>
+    <td><img src="./assets/symfony.svg" style="height: 45px;"></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/python.svg" style="height: 45px;"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/js.svg" style="height: 45px;"></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/php.svg" style="height: 45px;"></td>
+    <td></td>
+  </tr>
+</table>
 
-| Web Development | Operating Systems |
-|-----------------|-------------------|
-| ![HTML](./assets/html.svg) | ![Android](./assets/android.png) |
-| ![CSS](./assets/css.svg) | ![Linux](./assets/linux.svg) |
-| ![JavaScript](./assets/js.svg) | ![Windows](./assets/windows.svg) |
-| ![Bootstrap](./assets/bootstrap.svg) | |
+<table>
+  <tr>
+    <td><img src="./assets/html.svg" style="height: 45px;"></td>
+    <td><img src="./assets/android.png" style="width: 45px;"></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/css.svg" style="height: 45px;"></td>
+    <td><img src="./assets/linux.svg" style="height: 45px;"></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/js.svg" style="height: 45px;"></td>
+    <td><img src="./assets/windows.svg" style="height: 45px;"></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/bootstrap.svg" style="height: 45px;"></td>
+    <td></td>
+  </tr>
+</table>
 
-| Database | Version Control |
-|----------|-----------------|
-| ![SQL Server](./assets/microsoft-sql-server-logo.svg) | ![Git](./assets/git.svg) |
-| ![MySQL](./assets/mysql.svg) | ![GitHub](./assets/github.svg) |
+<table>
+  <tr>
+    <td><img src="./assets/microsoft-sql
 
-| Others |
-|--------|
-| ![Docker](./assets/Docker.png) |
-| ![Odoo](./assets/odoo.png) |
 
 
 ### 💻 Programming Languages: 
