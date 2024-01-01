@@ -5,6 +5,69 @@ frameworks such us .NET, Symfony, Bootstrap, Angular,
 and some relational database management systems like SQL Server, MySQL, and PostgreSQL.
 
 ## 🛠️ Skills and Tools
+<table>
+    <thead>
+        <tr>
+            <td> ### 💻 Programming Languages: 
+<div style="display: flex;">
+<img src="./assets/typescript.svg" style="height: 45px;">
+<img src="./assets/csharp.svg" style="height: 45px;">
+<img src="./assets/java.svg" style="height: 45px;">
+<img src="./assets/python.svg" style="height: 45px;">
+<img src="./assets/js.svg" style="height: 45px;">
+<img src="./assets/php.svg" style="height: 45px;">
+</div></td>
+            <td> ### <img src="./assets/rocket.svg" style="height: 20px;"> Frameworks:
+<div style="display: flex;">
+<img src="./assets/Microsoft_.NET_logo.png" style="height: 45px;">
+<img src="./assets/Angular.svg" style="height: 45px;">
+<img src="./assets/symfony.svg" style="height: 45px;">
+</div></td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>### <img src="./assets/codigo.png" style="height: 20px;">  Web Development:
+<div style="display: flex;">
+<img src="./assets/html.svg" style="height: 45px;">
+<img src="./assets/css.svg" style="height: 45px;">
+<img src="./assets/js.svg" style="height: 45px;">
+<img src="./assets/bootstrap.svg" style="height: 45px;">
+<img src="./assets/jquery.svg" style="height: 45px;">
+<img src="./assets/sass.svg" style="height: 45px;">
+</div></td>
+            <td>Fila 1, Columna 2</td>
+        </tr>
+        <tr>
+            <td>Fila 2, Columna 1</td>
+            <td>Fila 2, Columna 2</td>
+        </tr>
+        <tr>
+            <td>Fila 3, Columna 1</td>
+            <td>Fila 3, Columna 2</td>
+        </tr>
+        <tr>
+            <td>Fila 4, Columna 1</td>
+            <td>Fila 4, Columna 2</td>
+        </tr>
+        <tr>
+            <td>Fila 5, Columna 1</td>
+            <td>Fila 5, Columna 2</td>
+        </tr>
+        <tr>
+            <td>Fila 6, Columna 1</td>
+            <td>Fila 6, Columna 2</td>
+        </tr>
+        <tr>
+            <td>Fila 7, Columna 1</td>
+            <td>Fila 7, Columna 2</td>
+        </tr>
+        <tr>
+            <td>Fila 8, Columna 1</td>
+            <td>Fila 8, Columna 2</td>
+        </tr>
+    </tbody>
+</table>
 
 ### 💻 Programming Languages: 
 <div style="display: flex;">
