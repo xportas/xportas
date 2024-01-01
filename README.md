@@ -6,58 +6,6 @@ and some relational database management systems like SQL Server, MySQL, and Post
 
 ## 🛠️ Skills and Tools
 
-<table>
-  <tr>
-    <td><img src="./assets/typescript.svg" style="height: 45px;"></td>
-    <td><img src="./assets/Microsoft_.NET_logo.png" style="height: 45px;"></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/csharp.svg" style="height: 45px;"></td>
-    <td><img src="./assets/Angular.svg" style="height: 45px;"></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/java.svg" style="height: 45px;"></td>
-    <td><img src="./assets/symfony.svg" style="height: 45px;"></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/python.svg" style="height: 45px;"></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/js.svg" style="height: 45px;"></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/php.svg" style="height: 45px;"></td>
-    <td></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="./assets/html.svg" style="height: 45px;"></td>
-    <td><img src="./assets/android.png" style="width: 45px;"></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/css.svg" style="height: 45px;"></td>
-    <td><img src="./assets/linux.svg" style="height: 45px;"></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/js.svg" style="height: 45px;"></td>
-    <td><img src="./assets/windows.svg" style="height: 45px;"></td>
-  </tr>
-  <tr>
-    <td><img src="./assets/bootstrap.svg" style="height: 45px;"></td>
-    <td></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><img src="./assets/microsoft-sql
-
-
-
 ### 💻 Programming Languages: 
 <div style="display: flex;">
 <img src="./assets/typescript.svg" style="height: 45px;">
