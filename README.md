@@ -18,44 +18,44 @@ and some relational database management systems like SQL Server, MySQL, and Post
 
 ### <img src="./assets/rocket.svg" style="height: 20px;"> Frameworks:
 <div style="display: flex;">
-<img src="./assets/Microsoft_.NET_logo.png" style="height: 45px;">
-<img src="./assets/Angular.svg" style="height: 45px;">
-<img src="./assets/symfony.svg" style="height: 45px;">
+<img src="./assets/Microsoft_.NET_logo.png" style="height: 33px;">
+<img src="./assets/Angular.svg" style="height: 33px;">
+<img src="./assets/symfony.svg" style="height: 33px;">
 </div>
 
 ### <img src="./assets/codigo.png" style="height: 20px;">  Web Development:
 <div style="display: flex;">
-<img src="./assets/html.svg" style="height: 45px;">
-<img src="./assets/css.svg" style="height: 45px;">
-<img src="./assets/js.svg" style="height: 45px;">
-<img src="./assets/bootstrap.svg" style="height: 45px;">
-<img src="./assets/jquery.svg" style="height: 45px;">
-<img src="./assets/sass.svg" style="height: 45px;">
+<img src="./assets/html.svg" style="height: 33px;">
+<img src="./assets/css.svg" style="height: 33px;">
+<img src="./assets/js.svg" style="height: 33px;">
+<img src="./assets/bootstrap.svg" style="height: 33px;">
+<img src="./assets/jquery.svg" style="height: 33px;">
+<img src="./assets/sass.svg" style="height: 33px;">
 </div>
 
 ### <img src="./assets/bash.svg" style="height: 20px;"> Operating systems: 
 <div style="display: flex;">
-<img src="./assets/android.png" style="width: 45px;">
-<img src="./assets/linux.svg" style="height: 45px;">
-<img src="./assets/windows.svg" style="height: 45px;">
+<img src="./assets/android.png" style="width: 33px;">
+<img src="./assets/linux.svg" style="height: 33px;">
+<img src="./assets/windows.svg" style="height: 33px;">
 </div>
 
 ### <img src="./assets/database.svg" style="height: 20px;"> Database: 
 <div style="display: flex;">
-<img src="./assets/microsoft-sql-server-logo.svg" style="height: 45px;">
-<img src="./assets/mysql.svg" style="height: 45px;">
+<img src="./assets/microsoft-sql-server-logo.svg" style="height: 33px;">
+<img src="./assets/mysql.svg" style="height: 33px;">
 </div>
 
 ### <img src="./assets/git-branch.svg" style="height: 20px;"> Version Control: 
 <div style="display: flex;">
-<img src="./assets/git.svg" style="height: 45px;">
-<img src="./assets/github.svg" style="height: 45px;">
+<img src="./assets/git.svg" style="height: 33px;">
+<img src="./assets/github.svg" style="height: 33px;">
 </div>
 
 ### <img src="./assets/add.svg" style="height: 20px;"> Others: 
 <div style="display: flex;">
-<img src="./assets/Docker.png" style="height: 45px;">
-<img src="./assets/odoo.png" style="height: 45px;">
+<img src="./assets/Docker.png" style="height: 33px;">
+<img src="./assets/odoo.png" style="height: 33px;">
 </div>
 
 ## 🌱 I’m currently working
