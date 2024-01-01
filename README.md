@@ -20,15 +20,15 @@ and some relational database management systems like SQL Server, MySQL, and Post
 <div style="display: flex;">
 <img src="./assets/Microsoft_.NET_logo.png" style="height: 45px;">
 <img src="./assets/Angular.svg" style="height: 45px;">
-<img src="./assets/bootstrap.svg" style="height: 45px;">
 <img src="./assets/symfony.svg" style="height: 45px;">
 </div>
 
 ### <img src="./assets/codigo.png" style="height: 20px;">  Web Development:
 <div style="display: flex;">
-<img src="./assets/js.svg" style="height: 45px;">
 <img src="./assets/html.svg" style="height: 45px;">
 <img src="./assets/css.svg" style="height: 45px;">
+<img src="./assets/js.svg" style="height: 45px;">
+<img src="./assets/bootstrap.svg" style="height: 45px;">
 <img src="./assets/jquery.svg" style="height: 45px;">
 <img src="./assets/sass.svg" style="height: 45px;">
 </div>
@@ -50,6 +50,12 @@ and some relational database management systems like SQL Server, MySQL, and Post
 <div style="display: flex;">
 <img src="./assets/git.svg" style="height: 45px;">
 <img src="./assets/github.svg" style="height: 45px;">
+</div>
+
+### <img src="./assets/add.svg" style="height: 20px;"> Others: 
+<div style="display: flex;">
+<img src="./assets/Docker.png" style="height: 45px;">
+<img src="./assets/odoo.png" style="height: 45px;">
 </div>
 
 ## 🌱 I’m currently working
