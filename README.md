@@ -8,12 +8,12 @@ and some relational database management systems like SQL Server, MySQL, and Post
 
 ### 💻 Programming Languages: 
 <div style="display: flex;">
-<img src="./assets/typescript.png" style="height: 60px;">
-<img src="./assets/csharp.png" style="height: 60px;">
-<img src="./assets/java.png" style="height: 60px;">
-<img src="./assets/python.png" style="height: 60px;">
-<img src="./assets/js.png" style="height: 60px;">
-<img src="./assets/php.png" style="height: 60px;">
+<img src="./assets/typescript.png" style="height: 45px;">
+<img src="./assets/csharp.png" style="height: 45px;">
+<img src="./assets/java.png" style="height: 45px;">
+<img src="./assets/python.png" style="height: 45px;">
+<img src="./assets/js.png" style="height: 45px;">
+<img src="./assets/php.png" style="height: 45px;">
 </div>
 
 ###  Frameworks:
