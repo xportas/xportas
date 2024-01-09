@@ -72,4 +72,4 @@ and some relational database management systems like SQL Server, MySQL, and Post
 ## ⚡ Fun fact
 
 - I love playing 🏀basketball and ♟️chess in my free time.
-- 🔭 If I'm not surfing the internet, I'm probably camping in the mountains for a night of stargazing.
+- If I'm not surfing the internet, I'm probably camping in the mountains for a night of stargazing 🔭
