@@ -1,8 +1,6 @@
 # Hi, I'm Xabi 👋
 
-I'm a backend developer with some experience in languages like Python, Java, C#, JavaScript, TypeScript, PHP, HTML, CSS, Sass, 
-frameworks such us .NET, Symfony, Bootstrap, Angular,
-and some relational database management systems like SQL Server, MySQL, and PostgreSQL.
+I'm a backend developer with experience in TODO...
 
 ## 🛠️ Skills and Tools
 
