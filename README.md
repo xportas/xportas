@@ -1,7 +1,7 @@
 # Hi, I'm Xabi 👋
 
 <p>I am a backend developer with experience in some technologies, such as those listed below.</p>
-<p>I've been involved in several development projects including mobile applications... TODO   You can find some of these projects in my github profile.</p>
+<p>I've been involved in several development projects including ERPs, mobile, web and desktop applications. You can find some of these projects in my github profile.</p>
 <p>If you have any questions, or want to talk to me, feel free to contact me!</p>
 
 ## 🛠️ Skills and Tools
