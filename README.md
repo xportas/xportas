@@ -19,7 +19,8 @@ and some relational database management systems like SQL Server, MySQL, and Post
 ### <img src="./assets/rocket.svg" style="height: 20px;"> Frameworks:
 <div style="display: flex;">
 <img src="./assets/Microsoft_.NET_logo.png" style="height: 33px;">
-  <img src="./assets/entity-framework.png" style="height: 33px;">
+<img src="./assets/entity-framework.png" style="height: 33px;">
+<img src="./assets/react.svg" style="height: 33px;">
 <img src="./assets/Angular.svg" style="height: 33px;">
 <img src="./assets/symfony.svg" style="height: 33px;">
 </div>
@@ -45,7 +46,7 @@ and some relational database management systems like SQL Server, MySQL, and Post
 <div style="display: flex;">
 <img src="./assets/microsoft-sql-server-logo.svg" style="height: 33px;">
 <img src="./assets/mysql.svg" style="height: 33px;">
-  <img src="./assets/postgresql.svg" style="height: 33px;">
+<img src="./assets/postgresql.svg" style="height: 33px;">
 </div>
 
 ### <img src="./assets/git-branch.svg" style="height: 20px;"> Version Control: 
