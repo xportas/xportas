@@ -1,6 +1,8 @@
 # Hi, I'm Xabi 👋
 
-I'm a backend developer with experience in TODO...
+I am a backend developer with experience in some technologies, such as those listed below. 
+I've been involved in several development projects including mobile applications... TODO   You can find some of these projects in my github profile.
+If you have any questions, or want to talk to me, feel free to contact me!
 
 ## 🛠️ Skills and Tools
 
