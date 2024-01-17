@@ -59,7 +59,6 @@
 ### <img src="./assets/add.svg" style="height: 20px;"> Others: 
 <div style="display: flex;">
 <img src="./assets/Docker.png" style="height: 33px;">
-<img src="./assets/odoo.png" style="height: 33px;">
 <img src="./assets/GeoServer.png" style="height: 33px;">
 </div>
 
