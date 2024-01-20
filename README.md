@@ -5,7 +5,7 @@
 <p>If you have any questions, or want to talk to me, feel free to contact me!</p>
 
 ## 🛠️ Skills and Tools
-
+<div style="display: flex; align-items: center; justify-content: center;">
 ### 💻 Programming Languages: 
 <div style="display: flex;">
 <img src="./assets/typescript.svg" style="height: 33px;">
@@ -65,7 +65,7 @@
 ## 🌱 I’m currently working
 
 - TODO: In proces...
-
+<div/>
 ## 📫 How to reach me
 
 <div align="left">
