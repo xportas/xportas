@@ -64,7 +64,7 @@
 
 ## 🌱 I’m currently working
 
-- TODO: In proces...
+In a project involving a geographic information system, using C# and frameworks such as .NET and Entity for the back end, and React with different libraries for the front end, such as MaterialUI and OpenLayers for the management and visualization of map data, and PostgreSQL and GeoServer as database engines specialized in geographic data processing.
   
 ## 📫 How to reach me
 
