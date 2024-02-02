@@ -1,4 +1,5 @@
-# Hi, I'm Xabi 👋
+<img src="./assets/xportas-banner.png" style="height: 33px;">
+# 
 
 <p>I am a backend developer with experience in some technologies, such as those listed below.</p>
 <p>I've been involved in several development projects including GIS, ERPs, mobile, web and desktop applications. You can find some of these projects in my github profile.</p>
