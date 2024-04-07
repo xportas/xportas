@@ -24,6 +24,7 @@
 <img src="./assets/Angular.svg" style="height: 33px;">
 <img src="./assets/openlayers.svg" style="height: 33px;">
 <img src="./assets/symfony.svg" style="height: 33px;">
+<img src="./assets/ionic-logo.png" style="height: 33px;">
 </div>
 
 ### <img src="./assets/codigo.png" style="height: 20px;">  Web Development:
@@ -54,6 +55,7 @@
 <div style="display: flex;">
 <img src="./assets/git.svg" style="height: 33px;">
 <img src="./assets/github.svg" style="height: 33px;">
+<img src="./assets/azure-devops-logo.png" style="height: 33px;">
 </div>
 
 ### <img src="./assets/add.svg" style="height: 20px;"> Others: 
