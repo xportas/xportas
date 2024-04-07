@@ -55,7 +55,7 @@
 <div style="display: flex;">
 <img src="./assets/git.svg" style="height: 33px;">
 <img src="./assets/github.svg" style="height: 33px;">
-<img src="./assets/azure-devops-logo.png" style="height: 33px;">
+<img src="./assets/azure-devops-logo.png" style="height: 40px;">
 </div>
 
 ### <img src="./assets/add.svg" style="height: 20px;"> Others: 
