@@ -32,6 +32,7 @@
 <img src="./assets/html.svg" style="height: 33px;">
 <img src="./assets/css.svg" style="height: 33px;">
 <img src="./assets/js.svg" style="height: 33px;">
+<img src="./assets/tailwind-css.svg" style="height: 33px;">
 <img src="./assets/bootstrap.svg" style="height: 33px;">
 <img src="./assets/jquery.svg" style="height: 33px;">
 <img src="./assets/sass.svg" style="height: 33px;">
