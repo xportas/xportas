@@ -22,7 +22,6 @@
 <img src="./assets/entity-framework.png" style="height: 33px;">
 <img src="./assets/react.svg" style="height: 33px;">
 <img src="./assets/Angular.svg" style="height: 33px;">
-<img src="./assets/openlayers.svg" style="height: 33px;">
 <img src="./assets/symfony.svg" style="height: 33px;">
 <img src="./assets/ionic-logo.png" style="height: 33px;">
 </div>
@@ -33,6 +32,7 @@
 <img src="./assets/css.svg" style="height: 33px;">
 <img src="./assets/js.svg" style="height: 33px;">
 <img src="./assets/tailwind-css.svg" style="height: 33px;">
+<img src="./assets/openlayers.svg" style="height: 33px;">
 <img src="./assets/bootstrap.svg" style="height: 33px;">
 <img src="./assets/jquery.svg" style="height: 33px;">
 <img src="./assets/sass.svg" style="height: 33px;">
