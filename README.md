@@ -6,7 +6,7 @@
 
 I'm Full Stack Software Developer (though I have a particular passion for backend). I have been involved in various projects, including GIS development, ERPs, Web, Mobile, and Desktop applications.
 
-I've been involved in several development projects including GIS, ERPs, mobile, web and desktop applications. You can find some of these projects in my github profile.
+I've been involved in several development projects including GIS, ERPs, mobile, web and desktop applications. You can find some of these projects below.
 
 If you have any questions, or want to talk to me, feel free to contact me!
 
