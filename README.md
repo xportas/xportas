@@ -61,6 +61,7 @@ If you have any questions, or want to talk to me, feel free to contact me!
 
 ### <img src="./assets/add.svg" style="height: 20px;"> Others: 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Agile-Scrum-red?style=for-the-badge)
 ![Kanban](https://img.shields.io/badge/Agile-Kanban-red?style=for-the-badge)
 
