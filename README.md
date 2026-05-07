@@ -1,18 +1,5 @@
 ![Xportas Banner](./assets/xportas-banner.png)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xportas&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="xabierportas" />
-</div>
-
-## 📈 Statistics
-
-<div align="center" style="display: flex;">
-
-  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=xportas&layout=compact&theme=dark)
-
-  ![Resumen de perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xportas&theme=dark)
-</div>
-
 ## 📫 How to reach me
 
 <div align="left">
